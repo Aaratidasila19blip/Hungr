@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hungr - Fast Food Delivery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hungr</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Menu</a>
+      <a href="#">Cart</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="menu">
+      <h2>Popular Items</h2>
+      <div class="food-items">
+        <div class="food-card">
+          <img src="https://via.placeholder.com/150" alt="Burger" />
+          <h3>Burger</h3>
+          <p>$5.99</p>
+          <button onclick="addToCart('Burger')">Add to Cart</button>
+        </div>
+        <div class="food-card">
+          <img src="https://via.placeholder.com/150" alt="Pizza" />
+          <h3>Pizza</h3>
+          <p>$8.49</p>
+          <button onclick="addToCart('Pizza')">Add to Cart</button>
+        </div>
+      </div>
+      <div class="checkout">
+        <button onclick="placeOrder()">Place Order</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Hungr</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
