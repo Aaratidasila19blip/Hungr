@@ -15,3 +15,6 @@ No installation required. Simply download or clone the repository and open the `
 - Browse fast food items and add them to your cart
 - Smooth checkout experience
 - Fast and efficient home delivery service
+## Screenshots
+
+_Screenshots coming soon..._
