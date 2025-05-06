@@ -18,3 +18,8 @@ No installation required. Simply download or clone the repository and open the `
 ## Screenshots
 
 _Screenshots coming soon..._
+## Technologies Used
+
+- **HTML5** – Structure and content
+- **CSS3** – Styling and responsive design
+- **JavaScript** – Interactivity and functionality (if applicable)
