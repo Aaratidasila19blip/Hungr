@@ -23,3 +23,15 @@ _Screenshots coming soon..._
 - **HTML5** – Structure and content
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Interactivity and functionality (if applicable)
+## Contributing
+
+Contributions are welcome! If you'd like to improve the website, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add some feature'`)
+5. Push to the branch (`git push origin feature/your-feature-name`)
+6. Open a pull request
+
+Please make sure your code is clean and well-documented.
