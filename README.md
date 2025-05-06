@@ -35,3 +35,6 @@ Contributions are welcome! If you'd like to improve the website, please follow t
 6. Open a pull request
 
 Please make sure your code is clean and well-documented.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
